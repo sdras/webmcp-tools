@@ -3,6 +3,8 @@
 A mini-site that's a WebMCP explainer!
 [Visit the live site](https://googlechromelabs.github.io/webmcp-tools/demos/explainer/).
 
+_This site was created by [Sarah Drasner](https://github.com/sdras) and ported over to GoogleChromeLabs_
+
 This shows a side-by-side demo of how AI agents interact with a web page today (site scraping)
 and a future where the page declares structured tools with **WebMCP**. It shows:
 
